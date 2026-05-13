@@ -1,4 +1,4 @@
-# Part 1 — Repository Analysis (Task 1.1)
+# Part 1 - Repository Analysis (Task 1.1)
 
 ## 1) Identify Python-primary repositories
 

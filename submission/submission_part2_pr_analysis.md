@@ -1,7 +1,7 @@
-# Part 2 — Pull Request Analysis (Task 2.1)
+# Part 2 - Pull Request Analysis (Task 2.1)
 Repository: https://github.com/aio-libs/aiokafka
 
-## PR 1: #196 — Added separate socket groups to client
+## PR 1: #196 - Added separate socket groups to client
 PR Link: https://github.com/aio-libs/aiokafka/pull/196
 
 ### PR Summary

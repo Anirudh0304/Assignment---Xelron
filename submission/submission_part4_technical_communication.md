@@ -1,6 +1,6 @@
-# Part 4 — Technical Communication (Task 4.1)
+# Part 4 - Technical Communication (Task 4.1)
 
-## Scenario Response (WRITE IN YOUR OWN WORDS; 250–350 words)
+## Scenario Response
 
 **Why I chose this PR over the others**  
 I chose PR #196 (“Added separate socket groups to client”) because its goal is concrete and easy to validate: reduce head‑of‑line blocking caused by Kafka’s synchronous request/response behavior on a single connection. Compared to more sweeping refactors or large feature additions, this PR is localized to connection management and group coordination paths, and it includes tests that demonstrate the problem and the improved behavior. That made it easier for me to reason about scope, expected outcomes, and what “done” looks like.

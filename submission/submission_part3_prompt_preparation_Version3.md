@@ -1,4 +1,4 @@
-# Part 3 — Prompt Preparation  
+# Part 3 - Prompt Preparation  
 Repository: https://github.com/aio-libs/aiokafka  
 Chosen PR: https://github.com/aio-libs/aiokafka/pull/196  
 PR Title: Added separate socket groups to client
